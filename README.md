@@ -1,3 +1,3 @@
-# LoMP
+# Legend of Math Prodigy
 
-Grade 12 ISU!
+A twist on Legends of Kingdom Rush and Math Prodigy!
